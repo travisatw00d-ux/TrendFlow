@@ -1,0 +1,15 @@
+node_modules/
+.next/
+*.pyc
+__pycache__/
+.env
+*.bak
+cache_data.json
+backend/downloads/
+backend/flask_error.txt
+backend/flask_output.txt
+backend/_page_sample.html
+backend/_test_*.py
+backend/_probe*.py
+*.mp4
+*.webm
